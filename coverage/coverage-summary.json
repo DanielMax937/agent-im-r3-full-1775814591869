@@ -1,0 +1,3 @@
+{"total": {"lines":{"total":9,"covered":9,"skipped":0,"pct":100},"statements":{"total":9,"covered":9,"skipped":0,"pct":100},"functions":{"total":3,"covered":3,"skipped":0,"pct":100},"branches":{"total":1,"covered":0,"skipped":0,"pct":0},"branchesTrue":{"total":0,"covered":0,"skipped":0,"pct":"Unknown"}}
+,"/private/var/folders/f5/zk1qmsw53rl09d638d8t31gw0000gn/T/wt-r3-full-1775814591869/lib/r3-marker.js": {"lines":{"total":9,"covered":9,"skipped":0,"pct":100},"functions":{"total":3,"covered":3,"skipped":0,"pct":100},"statements":{"total":9,"covered":9,"skipped":0,"pct":100},"branches":{"total":1,"covered":0,"skipped":0,"pct":0}}
+}
